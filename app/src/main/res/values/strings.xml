@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Lab2_2Menu2</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_about_me">About Me</string>
+    <string name="action_zoom_in">Zoom In</string>
+    <string name="action_zoom_out">Zoom Out</string>
+    <string name="btn_vist">Visit TARUC</string>
+    <string name="btn_main">Show Main</string>
+    <string name="btn_dial">Dial 12345678</string>
+    <string name="btn_email">Email to tws5517@gmail.com</string>
+</resources>
